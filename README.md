@@ -1,4 +1,4 @@
-### 👋😨 --
+## Hello Everyone!! 👋😨 --
 Check out my programming stuff :P I like sharing what I learn.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%5B+Computer+Science+Student+%5D;%5B+Building+random+ideas+with+code+%5D;%5B+Tech+%E2%80%A2+Creativity+%E2%80%A2+Learning+%5D)](https://git.io/typing-svg)
